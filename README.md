@@ -16,6 +16,10 @@ The project includes the solution for Programming Skills I from leetcode study p
 - 1502
 - 202
 - 1790
+### Day5
+- 589
+- 496
+- 1232
 
 # Reference
 https://leetcode.com/study-plan/programming-skills/
